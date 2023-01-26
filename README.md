@@ -1,16 +1,11 @@
-# responsive_dashboard
+# Student-Management-Dashboard
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://user-images.githubusercontent.com/87107996/214767629-84ca69cc-f182-4659-b450-52430f35a23a.jpg)
+![WhatsApp Image 2023-01-26 at 11 21 14](https://user-images.githubusercontent.com/87107996/214767643-6efb7b43-51f9-4646-a88d-fb9c8431cf34.jpg)
+![3](https://user-images.githubusercontent.com/87107996/214767656-cd087054-a67c-4805-90cd-332aad0e942c.jpg)
