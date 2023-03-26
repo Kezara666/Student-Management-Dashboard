@@ -1,4 +1,7 @@
 # 📚 Student Management System
+[![Flutter](https://img.shields.io/badge/flutter-v2.8.1-blue)](https://flutter.dev/docs/development/tools/sdk/releases)
+[![Dart](https://img.shields.io/badge/dart-v2.15.1-blue)](https://dart.dev/get-dart)
+[![Firebase](https://img.shields.io/badge/firebase-v9.0.0-orange)](https://pub.dev/packages/firebase)
 
 A web-based system for managing students, classes, and grades using Flutter, Firebase, and Dart. The system includes features such as enrollment, course management, and grade tracking.
 
